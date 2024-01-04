@@ -3,7 +3,7 @@
 ## About the project 🌟
 ### [Live Demo](https://arkhanis.github.io/HTML_Landing-education/)
 ### `Description:` 
-This project is a website for a multipurpose agency.
+This project is a website for a multipurpose education.
 ### `Features:`
 - Responsive for all devices
 - Build using HTML, CSS, and JavaScript.
